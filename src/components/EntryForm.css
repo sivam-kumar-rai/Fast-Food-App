@@ -1,0 +1,33 @@
+.loginform {
+  height: 50vh;
+  width: 90vw;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.Form {
+  height: 45vh;
+  width: 25vw;
+  border-radius: 6%;
+  margin-right: 2.5rem;
+  background-color: transparent;
+  border: 5px solid;
+}
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  margin: 2rem;
+  color: rgb(0, 0, 0);
+  font-size: x-large;
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.input button {
+  color: black;
+  font-size: large;
+  font-weight: lighter;
+  background-color: rgba(210, 226, 241, 0.712);
+  margin-left: 2rem;
+}

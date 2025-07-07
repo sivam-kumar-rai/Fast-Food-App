@@ -1,0 +1,55 @@
+.Signupform {
+  height: 75vh;
+  width: 95vw;
+  display: flex;
+  justify-content: flex-end;
+}
+.SignupFormDetail {
+  height: 100%;
+  width: 28vw;
+  border: 3px solid;
+  border-radius: 6%;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0.1rem;
+  margin-right: 1rem;
+}
+p {
+  font-size: x-large;
+  font-weight: normal;
+  margin-left: 1rem;
+}
+input {
+  padding-left: 0.3rem;
+  width: 15rem;
+  height: 1.8rem;
+  font-size: larger;
+  font-weight: normal;
+}
+.address textarea {
+  height: 6rem;
+  width: 15rem;
+  font-size: x-large;
+  font-weight: normal;
+  margin-right: 0.3rem;
+}
+.pincode input {
+  width: 5.3rem;
+  height: 1.8rem;
+  padding-left: 0.4rem;
+  margin-right: 9.2rem;
+}
+.button {
+  height: 2.5rem;
+  width: 12rem;
+  margin: auto;
+}
+.button button {
+  height: 100%;
+  width: 100%;
+  border-radius: 6%;
+  background-color: azure;
+}
